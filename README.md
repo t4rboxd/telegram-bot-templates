@@ -1,4 +1,4 @@
-# Just Telegram Bots
+# Telegram bot templates
 
 This repository contains Telegram bot templates written in Python, Node.js, Ruby, and PHP that can be easily used to build your own Telegram bot. Each template includes just a start command that you can use to get your bot up and running quickly.
 
